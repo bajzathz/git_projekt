@@ -3,7 +3,7 @@
 // ===============
 
 
-$a = 105;
+$a = 15;
 $b = 17;
 $c = 12;
 $d = 34;
@@ -16,7 +16,7 @@ $Y=11;
 
 print "<br /><br />" . $X-$Y;
 
-print "Konfliktus lesz";
+print "Konfliktus legyen?";
 
 
 //Itt a vége
