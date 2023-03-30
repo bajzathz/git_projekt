@@ -10,12 +10,11 @@ $c = 12;
 print $a+$b+$c;
 
 //KIV
-$X=35;
-$Y=11;
+$x=51;
+$y=95;
+$z=730;
 
-print "<br /><br />" . $X-$Y;
-
-print "Konfliktus lesz";
+print "<br /><br />" . $z-$y-$x;
 
 //szorzas
 
