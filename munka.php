@@ -17,6 +17,12 @@ print "<br /><br />" . $X-$Y;
 
 print "Konfliktus lesz";
 
+// osztas
+
+$egyik=25;
+$masik=5;
+
+print $egyik/$masik;
 
 //Itt a vége
 ?>
