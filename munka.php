@@ -10,13 +10,11 @@ $c = 12;
 print $a+$b+$c;
 
 //KIV
-$x=35;
-$y=11;
-$z=37;
+$x=15;
+$y=59;
+$z=370;
 
-print "<br /><br />" . $x-$y;
-
-print "Konfliktus lesz";
+print "<br /><br />" . $z-$y-$x;
 
 
 //Itt a vége
