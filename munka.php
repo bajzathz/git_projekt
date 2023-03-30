@@ -2,8 +2,8 @@
 //Megyamatek
 // ===============
 
-$a = 10;
-$b = 15;
+$a = 105;
+$b = 150;
 
 print $a+$b;
 
@@ -12,5 +12,7 @@ $X=35;
 $Y=11;
 
 print "<br /><br />" . $X-$Y;
+
+print "Konfliktus lesz";
 
 ?>
