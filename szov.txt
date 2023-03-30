@@ -1,5 +1,3 @@
 Első sor.
 
-aa
-
-marhaság...
+Második sor.
